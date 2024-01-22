@@ -1,0 +1,82 @@
+.shrey{
+    width: 450px;
+    height: 550px;
+    margin: auto;
+    padding: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.button{
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+    background-color: rgb(238, 69, 69);
+    display: flex ;
+    justify-content: center;
+    max-width: 200px;
+    min-width: 100px;
+    padding: auto;
+    margin: auto;
+    font-size: medium;
+    border: 2px solid black;
+    margin-bottom: 3px;
+    
+    
+}
+.header{
+    background-color: lightblue;
+    margin: auto;
+    padding: auto;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+    margin-bottom: 3px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.data{
+    background-color: lightblue;
+    
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: auto;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    border: 2px solid black;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.para{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
+}
+
+.h3{
+    display: flex;
+    margin: auto;
+    padding: auto;
+}
+
+button:hover{
+    background-color:lightblue ;
+}
+
+.data:hover{
+    background-color: rgb(238, 69, 69);
+}
+
+.p{
+    margin: auto;
+    padding: auto;
+    display: flex;
+    align-items: baseline;
+    font-weight: bold;
+    border: 3px solid black;
+    align-items: center;
+    background-color: lightblue;
+
+}
